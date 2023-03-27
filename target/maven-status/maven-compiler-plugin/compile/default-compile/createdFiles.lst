@@ -1,0 +1,6 @@
+module-info.class
+com\bernardispa\blackjack\Model\Partita.class
+com\bernardispa\blackjack\SecondaryController.class
+com\bernardispa\blackjack\App.class
+com\bernardispa\blackjack\PrimaryController.class
+com\bernardispa\blackjack\Model\Carta.class
