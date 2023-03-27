@@ -8,3 +8,5 @@ Il classico gioco del blackjack sviluppato in JavaFX.
 The classic blackjack game developed in JavaFX. 
 
 ### (C) 2023 Bernardi Nicola
+
+[Visita il mio sito / visit my website](https://nbernardi.tk)
