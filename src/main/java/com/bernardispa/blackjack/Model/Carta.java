@@ -13,9 +13,13 @@ public class Carta {
         carta = numero + seme;
         if(numero.equals("11") || numero.equals("12") || numero.equals("13"))       // J, Q, K
             valore = 10;
-        else if(numero.equals("1"))
-            valore = 11;
-        else
+        else if(numero.equals("1")){
+            if(valore > 10){
+                valore = 1;
+            }else{
+                valore = 11;
+            }
+        }else
             valore = Integer.parseInt(numero);
     }
 
